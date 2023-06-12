@@ -12,6 +12,6 @@ body {
     align-items: center;
 }
 
-.container.text-center {
-    box-shadow: gray 3px 3px 3px 3px;
-}
+/* .container.text-center {
+    box-shadow: gray 3px;
+} */
