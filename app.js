@@ -27,6 +27,6 @@ function displayWeatherData(weatherData,city) {
   weatherResult.innerHTML = `
     <h2> Weather for ${city}</h2>
     <p>Weather Condition  ${weatherData.weather[0].description}</h2>
-    <p>Temperature: ${weatherData.main.temp}°C</p>
+    <p>Temperature: ${weatherData.main.temp}°F</p>
   `;
 }
