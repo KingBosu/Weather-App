@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin-top: 300px;
+    background-image: url("./images/sky_background.jpg");
+    font-family: 'Harry Potter', sans-serif;
+    display: flex;
+    align-items: center;
+}
+
+.container.text-center {
+    box-shadow: gray 3px 3px 3px 3px;
+}
